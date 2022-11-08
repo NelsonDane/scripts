@@ -23,3 +23,6 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 
 # Add the current user to the docker group
 sudo usermod -aG docker $USER
+
+# Make Docker folder
+mkdir ~/docker
