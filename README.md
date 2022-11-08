@@ -7,3 +7,9 @@ Run the following command to install docker on Linux (using [these instructions]
 ```bash
 wget -O - https://raw.githubusercontent.com/NelsonDane/scripts/main/linux_docker_install.sh | bash
 ```
+
+## Linux Tailscale Install
+Run the following command to install Tailscale on Linux (using [these instructions](https://tailscale.com/kb/1031/install-linux/)):
+```bash
+wget -O - https://raw.githubusercontent.com/NelsonDane/scripts/main/linux_tailscale_install.sh | bash
+```
