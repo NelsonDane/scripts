@@ -1,9 +1,8 @@
-#!/bin/sh
+#!/bin/bash
 
 # Script to install Docker on Linux
 
 # Set up the repository
-sudo apt-get update
 sudo apt-get update
 sudo apt-get install \
     ca-certificates \
